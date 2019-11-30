@@ -6,9 +6,9 @@ Semester Project for Télécom Paris MS Big Data's *Big Data Mining* (SD 701) Co
 
 ### Implementation
 
-As our working environment, we used Google Colab to run our Apache Spark.
+As our working environment, we used Google Colab to run our Apache Spark implementation:
 
-- [View `Exploratory Data Analysis` with Notebook Viewer]()
+[View Jupyter Notebook with MovieLens Recommender System Implementation](https://nbviewer.jupyter.org/github/SJD1882/Big-Data-Recommender-Systems/blob/master/notebooks/MovieLens27M-ALS-Recommender-System.ipynb)
 
 ### Data
 
